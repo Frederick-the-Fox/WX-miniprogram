@@ -1,0 +1,70 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/swiper/swiper",
+    "pages/tooling/tooling",
+    "pages/shuji/shuji",
+    "pages/developer/developer",
+    "pages/team/team",
+    "pages/team2/team2",
+    "pages/team3/team3",
+    "pages/M1/M1",
+    "pages/M2/M2",
+    "pages/M3/M4",
+    "pages/N1/N1",
+    "pages/N2/N3",
+    "pages/N3/N3",
+    "pages/NYH/NYH",
+    "pages/W1/W1",
+    "pages/W2/W2",
+    "pages/W3/W3",
+    "pages/XA/XA",
+    "pages/YHC/YHC",
+    "pages/Z1/Z1",
+    "pages/Z2/Z2",
+    "pages/Z3/Z3",
+    "pages/kangyi/kangyi",
+    "pages/thanks/thanks",
+    "pages/NBLTGS/NBLTGS",
+    "pages/YK/YK",
+    "pages/CR/CR",
+    "pages/ZJY/ZJY",
+    "pages/YYQ/YYQ",
+    "pages/lkh/lkh",
+    "pages/zy/zy"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#bc0000",
+    "navigationBarTitleText": "荣誉同行",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "展示首页",
+        "iconPath": "images/homei-h.png",
+        "selectedIconPath": "images/homei.png"
+      },
+      {
+        "pagePath": "pages/swiper/swiper",
+        "text": "红专直通",
+        "iconPath": "images/flag-h.png",
+        "selectedIconPath": "images/flag.png"
+      },
+      {
+        "pagePath": "pages/tooling/tooling",
+        "text": "关于我们",
+        "iconPath": "images/jing.png",
+        "selectedIconPath": "images/jing-h.png"
+      }
+    ],
+    "backgroundColor": "#bc0000",
+    "color": "#cdcdcd",
+    "selectedColor": "#ffffff"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
