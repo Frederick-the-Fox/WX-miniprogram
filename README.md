@@ -1,5 +1,6 @@
 # WX-miniprogram
 WeChat_miniprogram
+git无法识别wxss和wxml，故online add
 荣誉同行微信小程序
 合作开发
 前端：王元淳 王涵 舒涵
